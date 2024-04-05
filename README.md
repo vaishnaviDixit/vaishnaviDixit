@@ -1,3 +1,5 @@
+![logo](https://github.com/vaishnaviDixit/vaishnaviDixit/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Vaishnavi Dixit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
